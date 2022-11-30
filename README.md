@@ -1,4 +1,5 @@
 # RocketShoes
 Neste desafio eu desenvolvi um mini e-commerce de calçados esportivos.
 
-![resultado final](https://user-images.githubusercontent.com/119339630/204730835-ba59a424-1c7b-4bb1-bffa-1185c746530c.jpg
+
+![resultado final](https://user-images.githubusercontent.com/119339630/204731283-67563a1a-d1c6-48d3-bfc7-845697920b30.jpg)
