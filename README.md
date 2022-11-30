@@ -2,4 +2,4 @@
 Neste desafio eu desenvolvi um mini e-commerce de calçados esportivos.
 
 
-![resultado final](https://user-images.githubusercontent.com/119339630/204731283-67563a1a-d1c6-48d3-bfc7-845697920b30.jpg)
+![resultado](https://user-images.githubusercontent.com/119339630/204732115-d6e5525c-cc37-44b6-ac3c-d4b7325eb66f.png)
